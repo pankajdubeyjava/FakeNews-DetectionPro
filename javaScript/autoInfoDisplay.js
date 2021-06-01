@@ -1,5 +1,5 @@
 
-  let mystring = "you are under control so, don't try to do anything wrong though our website thank you!";
+  let mystring = "The crisis we face about 'truth' and reliable facts is predicted less on the ability to get people to believe the wrong* thing as it is on the ability to get people to doubt the right thing";
   let myarray= mystring.split("");
   let looptimer;
 
