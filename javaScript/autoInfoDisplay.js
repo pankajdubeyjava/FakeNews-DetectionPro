@@ -1,5 +1,5 @@
 
-  let mystring = '" The trust of the innocent is the liar’s most useful tool"';
+  let mystring = '" The trust of the innocent is the liar’s most useful tool"— Stephen King';
   let myarray= mystring.split("");
   let looptimer;
 
