@@ -1,5 +1,5 @@
 
-  let mystring = "The crisis we face about 'truth' and reliable facts is predicted less on the ability to get people to believe the wrong* thing as it is on the ability to get people to doubt the right thing";
+  let mystring = " The trust of the innocent is the liar’s most useful tool";
   let myarray= mystring.split("");
   let looptimer;
 
